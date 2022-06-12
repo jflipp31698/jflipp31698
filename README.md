@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jflipp31698
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me : email me at jayden31698@gmail.com
 
 <!---
