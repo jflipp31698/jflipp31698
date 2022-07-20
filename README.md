@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jflipp31698
-- 👀 I’m interested in Frontend Web Development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me : email me at jayden31698@gmail.com
 
